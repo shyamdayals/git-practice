@@ -9,7 +9,3 @@
 ## GIT MERGE
 
 ## MERGING - Bring changes from one branch to another
-
-## A Fast forward MERGE
-
-## Redux
