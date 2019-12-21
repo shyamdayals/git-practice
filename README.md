@@ -13,3 +13,7 @@
 ### master branch before merge ###
 
 ### testing merge - merge-demo-redux ##
+
+## git checkout -b ### new -branch
+
+## Git checkout : checkout a branch (update)
