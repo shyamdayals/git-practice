@@ -10,6 +10,4 @@
 
 ## testing git merge ##
 
-## Fast forward Merge ###
-
-## Small CHange to master branch ##
+## Fast forward Merge ##
