@@ -17,3 +17,5 @@
 ## git checkout -b ### new -branch
 
 ## Git checkout : checkout a branch (update)
+
+### update from github UI ###
