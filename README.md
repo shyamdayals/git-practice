@@ -8,4 +8,4 @@
 
 ## GIT MERGE
 
-## MERGING - Bring changes from one branch to another
+## MERGING - Bring changes from one branch to another - master update
