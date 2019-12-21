@@ -9,5 +9,3 @@
 ## MERGING - Bring changes from one branch to another - master update
 
 ## testing git merge ##
-
-## Fast forward Merge ##
