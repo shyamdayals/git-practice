@@ -11,3 +11,5 @@
 ## testing git merge ##
 
 ### master branch before merge ###
+
+### testing merge - merge-demo-redux ##
