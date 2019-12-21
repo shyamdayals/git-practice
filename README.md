@@ -11,3 +11,5 @@
 ## testing git merge ##
 
 ## Fast forward Merge ###
+
+## One more small change for merge-demo-redux
