@@ -13,3 +13,5 @@
 ## Fast forward Merge ###
 
 ## Small CHange to master branch ##
+
+## small change to merge-demo-redux branch ##
