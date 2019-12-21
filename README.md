@@ -9,3 +9,5 @@
 ## MERGING - Bring changes from one branch to another - master update
 
 ## testing git merge ##
+
+### testing merge - merge-demo-redux ##
